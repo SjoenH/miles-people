@@ -1,0 +1,9 @@
+{
+    "name": "Sigurd",
+    "location": "Oslo",
+    "img": "https://res.cloudinary.com/miles/image/upload/c_fill,f_auto,g_face:center,h_260,w_260/v1634821319/People/Sigurd-web.jpg",
+    "href": "https://www.miles.no/ansatte/sigurd-groneng/",
+    "description": "Sigurd har mastergrad innen Informatikk fra NTNU, skrev masteroppgave innen Deep Learning. Han har erfaring som fullstack-utvikler fra b\u00e5de sm\u00e5 og store IoT-prosjekter. Sigurd har interesse for de fleste teknologier og arbeidsmetodikk som kan gj\u00f8re utviklerhverdagen bedre. Han jobber gjerne med Kotlin p\u00e5 backend og React med Typescript i frontend.N\u00e5r Sigurd ikke er p\u00e5 jobb s\u00e5 liker han \u00e5 trene styrke, spille tennis, g\u00e5 p\u00e5 ski eller ta seg en joggetur. P\u00e5 restitusjonsdagene liker han \u00e5 lage god mat og m\u00f8te venner.",
+    "haiku": "Coding passion burns\nKotlin and React his art\nNature's peaceful path",
+    "summary_en": "Here is a summary of the description of Sigurd in English:\n\nSigurd holds a master's degree in Computer Science from NTNU and has experience as a full-stack developer on various IoT projects, ranging from small to large ones. He enjoys exploring different technologies and work methodologies that can improve development daily life. When not working, Sigurd enjoys exercising, playing tennis, skiing, or going for jogs, and also values spending time with friends and family over weekends."
+}

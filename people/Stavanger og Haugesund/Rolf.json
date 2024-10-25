@@ -1,0 +1,9 @@
+{
+    "name": "Rolf",
+    "location": "Stavanger og Haugesund",
+    "img": "https://res.cloudinary.com/miles/image/upload/c_fill,f_auto,g_face:center,h_260,w_260/v1635846378/People/Rolf-web.jpg",
+    "href": "https://www.miles.no/ansatte/rolf-dramdal/",
+    "description": "Rolf er utdannet sivilingeni\u00f8r i Robotikk og Automatisering ved Universitetet i Stavanger. Karrieren startet som .Net- og Java-utvikler i Capgemini, f\u00f8r han gikk til Data Gumbo der han utviklet en blockchain-platform i Golang og Nodejs. Der jobbet han frem til 2021 da han startet i Miles. Han trives godt med \u00e5 jobbe med kompleks arkitektur i store prosjekter, men ogs\u00e5 med \u00e5 levere fullstack-prosjekter der han kan gj\u00f8re alt fra utvikling av UI og backend til oppsett av infrastruktur i skyen.Rolf er interessert i sjakk (n\u00e5r han vinner) og boksing, fotball og l\u00f8ping (n\u00e5r han er i god form). Han er glad i friluft, b\u00f8ker, se serier og spille Nintendo. Ellers tilbringer han fritiden sammen med sin kone og s\u00f8nn.",
+    "haiku": "Code weaver's delight\nBlockchain paths unfold slowly\nNature's peaceful stride",
+    "summary_en": "Here is a summary of Rolf in 2-3 sentences:\n\nRolf is a civil engineer with expertise in robotics and automation from the University of Stavanger. With experience as a .Net and Java developer at Capgemini, he later developed a blockchain platform using Golang and Nodejs at Data Gumbo before joining Miles in 2021. In his free time, Rolf enjoys activities such as playing chess, boxing, watching football and running, as well as spending time with his family."
+}

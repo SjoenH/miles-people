@@ -1,0 +1,9 @@
+{
+    "name": "Anne",
+    "location": "Trondheim",
+    "img": "https://res.cloudinary.com/miles/image/upload/c_fill,f_auto,g_face:center,h_260,w_260/v1717155911/Anne_xglksi.jpg",
+    "href": "https://www.miles.no/ansatte/anne-bosch/",
+    "description": "Anne er utdannet lektor i realfag fra NTNU med undervisningsfagene informatikk og matematikk. Hun har en  lidenskap for engasjerende formidling og interesse for \u00e5 bruke programmering til \u00e5 ut\u00f8ve kreativitet.Hun trives godt med teknologier som React, TypeScript og Tailwind CSS, og har erfaring med moderne webutvikling fra flere ulike prosjekter. Hun har jobbet med \u00e5 videreutvikle produksjonssatte tjenester, og bygget ut bredden i sin kompetanse p\u00e5 CI/CD-pipelines og backend-utvikling i Python. I tillegg har hun interesse for tilgjengeliggj\u00f8ring av digitale tjenester, og har deltatt p\u00e5 flere kurs i universell utforming av webl\u00f8sninger for \u00e5 opparbeide seg kompetanse p\u00e5 gjeldende og fremtidige regelverk.P\u00e5 fritiden liker Anne \u00e5 v\u00e6re aktiv med friluftsliv og l\u00f8ping. Hun har mange og varierte interesser, og er glad i \u00e5 teste nye ting som vinterbading eller surdeigsbakst.",
+    "haiku": "Code creativity\nAnne's passion for digital\nFreedom in each step",
+    "summary_en": "Here is a short paragraph summarizing the description of Anne in English:\n\nAnne is a graduate of NTNU with a degree in teaching and learning in social sciences, specializing in computer science and mathematics. She has a passion for engaging communication and using programming to exercise creativity, and has experience working with various technologies such as React, TypeScript, and Tailwind CSS. In her free time, she enjoys outdoor activities like hiking and running, and tries out new hobbies like winter bathing or sourdough baking."
+}
