@@ -46,6 +46,15 @@ def scrape_data():
                     details_soup = BeautifulSoup(details_page.content, 'html.parser')
                     person_data['description'] = details_soup.find('div', class_='entry-content').get_text(strip=True)
                     
+                    # Add profession scraping
+                    title_location = details_soup.find('div', class_='title-location')
+                    if title_location:
+                        profession_location = title_location.get_text(strip=True)
+                        profession = re.split(r',\s*', profession_location)[0]  # Split by comma and take the first part
+                        person_data['profession'] = profession
+                    else:
+                        person_data['profession'] = "Not specified"
+                    
                     # Save individual person data
                     save_json(person_data, person_file)
 
